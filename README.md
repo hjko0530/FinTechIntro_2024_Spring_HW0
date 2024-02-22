@@ -17,5 +17,4 @@ deployed contract address: 0xA39E6e49205143f38331cf240Dd576F29665fDE3
 
 ## Sepolia Etherscan
 Paste the contract address into the Sepolia Etherscan and share the screenshot.
-contract address: 0x70551aa934aCFb52029d68F6eC7851dbe756A7E9
 ![image](Sepolia_Etherscan.png)
